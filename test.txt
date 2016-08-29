@@ -1,1 +1,2 @@
-This is the first text file for my git test to GitHub
+1. This is the first text file for my git test to GitHub
+2. This is first change to file, second commit.
